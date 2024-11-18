@@ -1,6 +1,6 @@
 ## 👋 Hello!
 
-My name is Arnav, I've been coding ever since I was eight years old and have made many websites and computer-based projects in my time as a hobby developer. So far my biggest project is [BubbleOS](https://github.com/Bubble-OS/bubbleos), which has over 6000 lines of code and took several months to make! I mainly code in JavaScript, web technologies, and Node.js, but I also sometimes code in Python and C#/Unity.
+My name is Arnav! I've been coding since I was eight, creating numerous websites and computer-based projects as a passionate hobbyist developer. My most significant project is [BubbleOS](https://github.com/Bubble-OS/bubbleos), a system with over 6,000 lines of code that took several months to complete. My primary expertise lies in JavaScript, web technologies, and Node.js, though I occasionally work with Python.
 
 ## 📊 GitHub Stats
 

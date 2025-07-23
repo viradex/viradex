@@ -1,8 +1,8 @@
 ## 👋 Hello!
 
-My online username is Viradex, but my real name is Arnav! I've been coding since I was eight, creating numerous websites and computer-based projects as a passionate hobbyist developer. My most significant project is [BubbleOS](https://github.com/arnavt78/bubbleos), a shell with over 6,000 lines of code still being worked on today. My primary expertise lies in JavaScript, web technologies, and Node.js, though I occasionally work with Python.
+My online username is Viradex, but my real name is Arnav! I've been coding since I was eight, creating numerous websites and computer-based projects as a hobbyist developer. My most significant project is [BubbleOS](https://github.com/arnavt78/bubbleos), a shell with many commands and functions still being worked on today. My primary expertise lies in JavaScript and Python.
 
-I enjoy coding, playing Minecraft, and making YouTube videos about Windows!
+I enjoy coding, playing games such as Minecraft, and making YouTube videos!
 
 ## 📊 GitHub Stats
 
